@@ -1,0 +1,19 @@
+0.  GIF = 256; BMP = 16M; PNG = 256T; JPEG = 16M
+1.  GIF
+2.  Lossy compression achieves a smaller file size by accepting some degradation in the image. Lossless compression looks for more efficient ways to represent an image without compromising accuracy.
+3.  JPEG
+4.  The system modifies the first character of the filename in the file's directory entry to signal that the file has been deleted and the entry can be recycled. The file's FAT clusters are then moved to the hard drive's list of free clusters but the actual file data remains intact.
+5.  Physically destroy the hard drive, degauss the drive to randomize the magnetic domains, overwriting the drive's data so that it can't be recovered.
+6.  Header file in standard C library that specifies exact-width integer types, and the defined minimum and maximum allowable values for each type
+7.  So that variables have fixed number of bits code does not need to be modified when deploying code on architecture with different number of bits
+8.  BYTE = 1, DWORD = 4, LONG = 4, WORD =2
+9.  42 4d
+10. bfSize describes size of the file in bytes, biSize describes size of BITMAPINFOHEADER structure in bytes
+11. bitmap is a top-down DIB with origin at the top left corner.
+12. biBitCount
+13. file could not be opened - file might not exist or there is a permission error
+14. so that programme reads the information as one element, e.g. an RGBTRIPLE is 1 element
+15. 3
+16.  sets file pointer to a new position using its current and position and number of bytes to be moved.
+17. current position of file pointer (inptr)
+18. TODO
